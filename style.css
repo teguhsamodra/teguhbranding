@@ -1,0 +1,45 @@
+body{
+    margin-right: 0;
+}
+
+
+.slider h3, .slider h5 {
+    text-shadow: 1px 1px 3px rgba(0,0,0, 0.5);
+}
+
+.parallax-container{
+    height: 10%;
+}
+
+.clients h3{
+    text-shadow: 1px 1px 3px rgba(0,0,0, 0.5);
+}
+
+.parallax img{
+    filter: grayscale(1);
+    opacity: .5 !important;
+}
+
+.clients img{
+    max-width: 200px;
+    filter: drop-shadow(1px 1px 3px rgba(0,0,0,0.7));
+}
+
+section{
+    padding: 20px 0;
+}
+
+.contact{
+    margin-top: -100px;
+}
+
+.input-field label{
+    color: rgb(63, 2, 162); 
+}
+
+section, footer p{
+    padding: 20px 0;
+    margin-top: -10px;
+    margin-bottom: 0px;
+}
+

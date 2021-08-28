@@ -43,3 +43,10 @@ section, footer p{
     margin-bottom: 0px;
 }
 
+@media(max-width:600px){
+    .progress {
+        width: 277px !important;
+    }
+
+}
+

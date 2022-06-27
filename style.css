@@ -2,6 +2,20 @@ body{
     margin-right: 0;
 }
 
+.jumbotron{
+    background-image: url("img/gg.jpg");
+    padding-top: 6rem;
+    background-color: lightgray;
+    color: rgb(219, 219, 219);
+    background-attachment: fixed;
+}
+.lead{
+    font-size: larger;
+}
+.img-thumbnail{
+    border-radius: 50%;
+    border: 3px solid rgb(241, 241, 241);
+}
 
 .slider h3, .slider h5 {
     text-shadow: 1px 1px 3px rgba(0,0,0, 0.5);
@@ -41,6 +55,25 @@ section, footer p{
     padding: 20px 0;
     margin-top: -10px;
     margin-bottom: 0px;
+}
+
+.lamaran{
+    margin-left: 15%;
+    width: 70%;
+}
+.lamaran p{
+    text-align: justify;
+}
+.lamarantabel{
+    display: flex
+}
+.lamarantabel p{
+   margin-left: 690px; 
+}
+
+.cv form{
+    width: 40%;
+    margin-left: 31%;
 }
 
 @media(max-width:600px){
